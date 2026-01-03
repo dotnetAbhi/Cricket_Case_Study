@@ -40,7 +40,7 @@ Strengthened fundamentals useful for competitive programming and interviews,
 Tournament management systems,
 Leaderboard ranking logic,
 Sports analytics,
-Practice project for beginners,
+Practice project for beginners
 
 
 📌 Author.
