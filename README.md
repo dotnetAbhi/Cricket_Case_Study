@@ -39,7 +39,7 @@ Strengthened fundamentals useful for competitive programming and interviews,
 📂 Use Cases.
 Tournament management systems,
 Leaderboard ranking logic,
-Sports analytics
+Sports analytics,
 Practice project for beginners
 
 
