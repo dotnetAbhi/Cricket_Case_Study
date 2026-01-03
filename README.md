@@ -43,7 +43,7 @@ Sports analytics,
 Practice project for beginners
 
 
-📌 Author.
+📌 Author
 
 **Abhishek Kumar Singh**       
 Full Stack .NET Developer
