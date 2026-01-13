@@ -13,7 +13,7 @@ Store the selected teams into a new group (Group C),
 From Group C, select the top 2 teams,
 Finally, determine the Top 1 team (Winner) based on the highest score
 
-🔄 Workflow / Logic Flow,
+🔄 Workflow / Logic Flow
 Input 8 teams with scores,
 Split teams into Group A and Group B,
 Sort teams based on scores,
