@@ -11,7 +11,7 @@ Divide the teams into two groups based on their scores,
 Select the top 2 teams from each group,
 Store the selected teams into a new group (Group C),
 From Group C, select the top 2 teams,
-Finally, determine the Top 1 team (Winner) based on the highest score,
+Finally, determine the Top 1 team (Winner) based on the highest score
 
 🔄 Workflow / Logic Flow,
 Input 8 teams with scores,
