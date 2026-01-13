@@ -18,7 +18,7 @@ Input 8 teams with scores,
 Split teams into Group A and Group B,
 Sort teams based on scores,
 Select Top 2 teams from each group,
-Merge selected teams into Group C
+Merge selected teams into Group C,
 Sort Group C and determine:,
 
 Final 2 teams.
