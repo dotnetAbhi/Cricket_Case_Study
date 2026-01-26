@@ -2,7 +2,7 @@
 
 📌 Project Overview
 This project is a logic-based case study that simulates a cricket tournament ranking system
-It demonstrates how teams can be grouped, filtered, and ranked based on their scores to determine the final winner.
+It demonstrates how teams can be grouped, filtered, and ranked based on their scores to determine the final winner
 The case study focuses on problem-solving, logical thinking, and data handling, commonly used in real-world applications such as tournament systems, leaderboards, and ranking engines.
 
 🎯 Problem Statement
