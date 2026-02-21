@@ -1,4 +1,4 @@
-🏏 Cricket Tournament Case Study – Team Grouping & Ranking Logic  
+🏏 Cricket Tournament Case Study – Team Grouping & Ranking Logic   
 📌 Project Overview 
 This project is a logic-based case study that simulates a cricket tournament ranking system
 It demonstrates how teams can be grouped, filtered, and ranked based on their scores to determine the final winner
